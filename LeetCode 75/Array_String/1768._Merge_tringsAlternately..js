@@ -1,3 +1,7 @@
+// Problem: 1768. Merge Strings Alternately
+// Difficulty: Easy
+// LeetCode Link: https://leetcode.com/problems/merge-strings-alternately/?envType=study-plan-v2&envId=leetcode-75
+
 var mergeAlternately = function (word1, word2) {
   let result = "";
   let i = 0;
@@ -14,7 +18,7 @@ var mergeAlternately = function (word1, word2) {
 };
 // Example usage:
 console.log(mergeAlternately("abc", "pqr")); // Output: "apbqcr"
-console.log(mergeAlternately("ab", "pqrs"));; // Output: "apbqrs"
+console.log(mergeAlternately("ab", "pqrs")); // Output: "apbqrs"
 console.log(mergeAlternately("abcd", "pq")); // Output: "apbqcd"
 /* 
 You are given two strings word1 and word2. Merge the strings by adding letters in alternating order, starting with word1. If a string is longer than the other, append the additional letters onto the end of the merged string.

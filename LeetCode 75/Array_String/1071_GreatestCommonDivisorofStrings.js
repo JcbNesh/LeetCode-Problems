@@ -1,3 +1,7 @@
+// Problem: 1071 Greatest Common DivisorofStrings
+// Difficulty: Easy
+// LeetCode Link: https://leetcode.com/problems/greatest-common-divisor-of-strings/?envType=study-plan-v2&envId=leetcode-75
+
 var gcdOfStrings = function (str1, str2) {
   if (str1 + str2 !== str2 + str1) return "";
   let a = str1.length;
