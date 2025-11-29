@@ -9,10 +9,10 @@
 - **File names**: Use `ID._Problem_Name.extension` (e.g., `1768._Merge_Strings_Alternately..js`).
 
 **How To Run Solutions (JavaScript)**
-- **Run a single file:** from repository root in PowerShell run:
+- **Run a single file:** from repository root in PowerShell for example run:
 
 ```powershell
-node "Array_String/1768._Merge_Strings_Alternately..js"
+node "Array_String/1768._Merge_Strings_Alternately.js"
 ```
 
 **Naming & Documentation Convention**
