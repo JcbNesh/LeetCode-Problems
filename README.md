@@ -14,7 +14,8 @@
 ```powershell
 node "Array_String/1768._Merge_Strings_Alternately.js"
 ```
-
+**How To Run Solutions (SQL)**
+- **Most Probably You dont have tables,schemas which solutioins require,Just find the problem on leetcode:
 **Naming & Documentation Convention**
 - **Header comment:** one-line problem description, approach summary, complexity (time/space), and example usage.
 - **Examples:** put a few example `console.log` calls at the bottom of the file for quick verification.
