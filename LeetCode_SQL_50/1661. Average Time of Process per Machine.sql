@@ -18,6 +18,3 @@ on a.machine_id = b.machine_id
   
 /* Explanation: This query calculates the average processing time for each machine by joining the activity table with itself to match start and end activities for the same machine and process. It then groups the results by machine_id and rounds the average processing time to three decimal places.
  */
-
-
- /* Scscs */
